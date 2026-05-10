@@ -12,7 +12,7 @@
 
 [link to website](https://canva.link/j98ybs2gp5ifseb)
 
-###Our website is hosted by Wix. Any code added is provided below: 
+### Our website is hosted by Wix. Any code added is provided below: 
 
 
   
